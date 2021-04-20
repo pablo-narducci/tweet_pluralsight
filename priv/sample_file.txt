@@ -1,4 +1,4 @@
-Line 1
-Line 2
-Third Line 
+This is a random tweet
+This tweet is a random string from a file
+This tweet was read from a file
 Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line Third Line 

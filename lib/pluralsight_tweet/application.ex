@@ -8,6 +8,7 @@ defmodule PluralsightTweet.Application do
   @impl true
   def start(_type, _args) do
     children = [
+      PluralsightTweet.TweetServer,
       PluralsightTweet.Scheduler
       # Starts a worker by calling: PluralsightTweet.Worker.start_link(arg)
       # {PluralsightTweet.Worker, arg}
